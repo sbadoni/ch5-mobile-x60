@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectMerge.iml" filepath="$PROJECT_DIR$/ProjectMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bcip/bcip.iml" filepath="$PROJECT_DIR$/bcip/bcip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beaconparser/beaconparser.iml" filepath="$PROJECT_DIR$/beaconparser/beaconparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clogger/clogger.iml" filepath="$PROJECT_DIR$/clogger/clogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connection-manager/connection-manager.iml" filepath="$PROJECT_DIR$/connection-manager/connection-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control_system_settings/control_system_settings.iml" filepath="$PROJECT_DIR$/control_system_settings/control_system_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crestronplatformsignaltransport/crestronplatformsignaltransport.iml" filepath="$PROJECT_DIR$/crestronplatformsignaltransport/crestronplatformsignaltransport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cryptography/cryptography.iml" filepath="$PROJECT_DIR$/cryptography/cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemattribute/itemattribute.iml" filepath="$PROJECT_DIR$/itemattribute/itemattribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile-android-common/mobile-android-common.iml" filepath="$PROJECT_DIR$/mobile-android-common/mobile-android-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilebcipclient/mobilebcipclient.iml" filepath="$PROJECT_DIR$/mobilebcipclient/mobilebcipclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_management/project_management.iml" filepath="$PROJECT_DIR$/project_management/project_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signal_manager/signal_manager.iml" filepath="$PROJECT_DIR$/signal_manager/signal_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video/video.iml" filepath="$PROJECT_DIR$/video/video.iml" />
+    </modules>
+  </component>
+</project>

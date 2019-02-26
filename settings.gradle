@@ -1,0 +1,3 @@
+include ':app', ':mobile-android-common', ':control_system_settings', ':bcip', ':project_management',':clogger',
+        ':cryptography', 'itemattribute', ':domain', ':signal_manager', ':beaconparser',':connection-manager',':video',
+        ':crestronplatformsignaltransport',':mobilebcipclient'

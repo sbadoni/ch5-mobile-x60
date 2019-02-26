@@ -1,0 +1,54 @@
+apply plugin: 'com.android.library'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+    testOptions {
+        unitTests.returnDefaultValues = true
+        unitTests.includeAndroidResources = true
+    }
+}
+
+// Copy app.json from mobile-common module to app's assets dir
+task copyAppConfigFile(type: Copy) {
+    from '../mobile-common/app.json'
+    into '../app/src/main/assets'
+}
+preBuild.dependsOn copyAppConfigFile
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+    implementation 'com.android.support:support-annotations:27.1.1'
+
+    /* External Libs */
+    api 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    api 'io.reactivex.rxjava2:rxjava:2.1.12'
+    api 'io.reactivex:rxkotlin:1.0.0'
+    implementation 'com.google.code.gson:gson:2.8.2'
+
+    /* Test Libs */
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-core:2.16.0'
+    testImplementation 'org.robolectric:robolectric:3.8'
+//    testImplementation project(path: ':domain')
+}

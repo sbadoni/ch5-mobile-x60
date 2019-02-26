@@ -1,0 +1,1545 @@
+{
+    "device":  "TSW-1060",
+    "timestamp":  "2018-09-27T05:00:07",
+    "prefix":  "Crestron.",
+    "version":  1,
+    "source":  "RJDatabase",
+    "signals":  [
+                    {
+                        "type":  "numeric",
+                        "joinId":  17201,
+                        "signalName":  "Lcd_Brt",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17203,
+                        "signalName":  "Standby_Timeout",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17216,
+                        "signalName":  "Lcd_Brt_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17217,
+                        "signalName":  "Lcd_Brt_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17218,
+                        "signalName":  "Lcd_Brt_High",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17218,
+                        "signalName":  "Lcd_Brt_Auto_Thresh",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17219,
+                        "signalName":  "Lcd_Brt_Med",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17219,
+                        "signalName":  "Light_Sensor_Value",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17220,
+                        "signalName":  "Lcd_Brt_Lo",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17221,
+                        "signalName":  "Lcd_Brt_Auto_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17229,
+                        "signalName":  "Backlight_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17230,
+                        "signalName":  "Backlight_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17231,
+                        "signalName":  "Standby_Timeout_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17232,
+                        "signalName":  "Standby_Timeout_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17242,
+                        "signalName":  "Enter_Setup",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17295,
+                        "signalName":  "Lcd_Brt_Auto_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17296,
+                        "signalName":  "Lcd_Brt_Auto_Thresh_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17297,
+                        "signalName":  "Lcd_Brt_Auto_Thresh_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  17300,
+                        "signalName":  "Ip_Address",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17300,
+                        "signalName":  "All_Audio_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17300,
+                        "signalName":  "Key_Click_Volume",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17301,
+                        "signalName":  "All_Audio_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17302,
+                        "signalName":  "Key_Click_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17303,
+                        "signalName":  "Key_Click_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17304,
+                        "signalName":  "Key_Click_Volume_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17305,
+                        "signalName":  "Key_Click_Volume_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17307,
+                        "signalName":  "All_Audio_Volume",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  17309,
+                        "signalName":  "MAC_Address",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17329,
+                        "signalName":  "All_Audio_Volume_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17330,
+                        "signalName":  "All_Audio_Volume_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17903,
+                        "signalName":  "LCD_Level_High",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17904,
+                        "signalName":  "Bklt_Brt_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17904,
+                        "signalName":  "LCD_Level_Med",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17905,
+                        "signalName":  "Bklt_Brt_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  17905,
+                        "signalName":  "LCD_Level_Lo",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17958,
+                        "signalName":  "Disable_System_Popup_Message",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17964,
+                        "signalName":  "Lcd_Brt_High_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17965,
+                        "signalName":  "Lcd_Brt_High_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17966,
+                        "signalName":  "Lcd_Brt_Med_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17967,
+                        "signalName":  "Lcd_Brt_Med_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17968,
+                        "signalName":  "Lcd_Brt_Lo_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  17969,
+                        "signalName":  "Lcd_Brt_Lo_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18205,
+                        "signalName":  "Key_Backlight_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18206,
+                        "signalName":  "Key_Backlight_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  18235,
+                        "signalName":  "Key_Backlight_High",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18236,
+                        "signalName":  "Key_Backlight_High_Level_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18237,
+                        "signalName":  "Key_Backlight_High_Level_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  18237,
+                        "signalName":  "Key_Backlight_Low",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18240,
+                        "signalName":  "Keyboard_Language",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18240,
+                        "signalName":  "Key_Backlight_Low_Level_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18241,
+                        "signalName":  "Key_Backlight_Low_Level_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18242,
+                        "signalName":  "Key_Backlight_High_Level",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18244,
+                        "signalName":  "Key_Backlight_Low_Level",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18245,
+                        "signalName":  "System_Language",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18249,
+                        "signalName":  "OSD_User_Project_Name_Text_Join",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18260,
+                        "signalName":  "OSD_User_Project",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  18271,
+                        "signalName":  "System_Media_Volume",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18352,
+                        "signalName":  "Mic_Test_record",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18353,
+                        "signalName":  "Mic_Test_Play",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18427,
+                        "signalName":  "MJPEG_Touched",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18436,
+                        "signalName":  "System_Media_Volume_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18437,
+                        "signalName":  "System_Media_Volume_Down",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18438,
+                        "signalName":  "System_Media_Mute",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18439,
+                        "signalName":  "System_Media_Unmute",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18494,
+                        "signalName":  "All_Control_Systems_Online",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18495,
+                        "signalName":  "Control_Systems_Offline",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18601,
+                        "signalName":  "Init",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18602,
+                        "signalName":  "String_To_Dial",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18603,
+                        "signalName":  "DialBuffer",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18606,
+                        "signalName":  "My_URI",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18607,
+                        "signalName":  "Incoming_URI",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18608,
+                        "signalName":  "Command_Str",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18612,
+                        "signalName":  "Group_To_Dial",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  18613,
+                        "signalName":  "Incoming_Display_Name",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18900,
+                        "signalName":  "Hard_Button_Brt_Auto_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  18900,
+                        "signalName":  "Hard_Button_Brightness",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18901,
+                        "signalName":  "Hard_Button_Brt_Auto_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  18901,
+                        "signalName":  "Hard_Button_Brt_Auto_Thresh",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18902,
+                        "signalName":  "Hard_Button_Brt_Auto_Thresh_Up",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18903,
+                        "signalName":  "Hard_Button_Brt_Auto_Thresh_Dn",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18904,
+                        "signalName":  "Hard_Button_1_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18905,
+                        "signalName":  "Hard_Button_1_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18906,
+                        "signalName":  "Hard_Button_2_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18907,
+                        "signalName":  "Hard_Button_2_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18908,
+                        "signalName":  "Hard_Button_3_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18909,
+                        "signalName":  "Hard_Button_3_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18910,
+                        "signalName":  "Hard_Button_4_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18911,
+                        "signalName":  "Hard_Button_4_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18912,
+                        "signalName":  "Hard_Button_5_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  18913,
+                        "signalName":  "Hard_Button_5_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  22900,
+                        "signalName":  "CameraStreamURL",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  22900,
+                        "signalName":  "EnableMulticast",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  22901,
+                        "signalName":  "CameraSnapshotURL",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  22901,
+                        "signalName":  "DisableMulticast",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  22902,
+                        "signalName":  "CameraStreamName",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  22902,
+                        "signalName":  "EnableStream",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  22903,
+                        "signalName":  "CameraSnapshotName",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  22903,
+                        "signalName":  "DisableStream",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  22904,
+                        "signalName":  "MulticastAddress",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  27104,
+                        "signalName":  "Auto_Answer_Delay",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27203,
+                        "signalName":  "ConnectedToServer",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27204,
+                        "signalName":  "Dial_1",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27205,
+                        "signalName":  "Dial_2",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27206,
+                        "signalName":  "Dial_3",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27207,
+                        "signalName":  "Dial_4",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27208,
+                        "signalName":  "Dial_5",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27209,
+                        "signalName":  "Dial_6",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27210,
+                        "signalName":  "Dial_7",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27211,
+                        "signalName":  "Dial_8",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27212,
+                        "signalName":  "Dial_9",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27213,
+                        "signalName":  "Dial_0",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27214,
+                        "signalName":  "Dial_*",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27215,
+                        "signalName":  "Dial_/#",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27216,
+                        "signalName":  "Dial_Backspace",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27217,
+                        "signalName":  "Dial_Clear",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27218,
+                        "signalName":  "Dial",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27219,
+                        "signalName":  "Answer",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27220,
+                        "signalName":  "Reject",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27221,
+                        "signalName":  "Hangup",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27222,
+                        "signalName":  "Dialing",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27223,
+                        "signalName":  "Busy",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27224,
+                        "signalName":  "CallActive",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27225,
+                        "signalName":  "Ringing",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27226,
+                        "signalName":  "Incoming",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27233,
+                        "signalName":  "Hold",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27235,
+                        "signalName":  "PTT",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27236,
+                        "signalName":  "Do_Not_Disturb",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27237,
+                        "signalName":  "Muted",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27238,
+                        "signalName":  "Call_Terminated",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27239,
+                        "signalName":  "Door_Release",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27240,
+                        "signalName":  "Preview",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27253,
+                        "signalName":  "PTT_mode",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27256,
+                        "signalName":  "Ringback",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27257,
+                        "signalName":  "page_all",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27260,
+                        "signalName":  "Redial",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27261,
+                        "signalName":  "Auto_Answer",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27400,
+                        "signalName":  "Aux_1",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27401,
+                        "signalName":  "Aux_2",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27402,
+                        "signalName":  "Aux_3",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27403,
+                        "signalName":  "Aux_4",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27404,
+                        "signalName":  "Aux_5",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27405,
+                        "signalName":  "Aux_6",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27406,
+                        "signalName":  "Aux_7",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27407,
+                        "signalName":  "Aux_8",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27408,
+                        "signalName":  "Aux_9",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27409,
+                        "signalName":  "Aux_10",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27410,
+                        "signalName":  "Aux_11",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27411,
+                        "signalName":  "Aux_12",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27412,
+                        "signalName":  "Aux_13",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27413,
+                        "signalName":  "Aux_14",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27414,
+                        "signalName":  "Aux_15",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27415,
+                        "signalName":  "Aux_16",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27416,
+                        "signalName":  "Aux_17",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27417,
+                        "signalName":  "Aux_18",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27418,
+                        "signalName":  "Aux_19",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27419,
+                        "signalName":  "Aux_20",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27420,
+                        "signalName":  "Aux_21",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27421,
+                        "signalName":  "Aux_22",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27422,
+                        "signalName":  "Aux_23",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27423,
+                        "signalName":  "Aux_24",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27424,
+                        "signalName":  "Aux_25",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27425,
+                        "signalName":  "Aux_26",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27426,
+                        "signalName":  "Aux_27",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27427,
+                        "signalName":  "Aux_28",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27428,
+                        "signalName":  "Aux_29",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27429,
+                        "signalName":  "Aux_30",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27430,
+                        "signalName":  "Aux_31",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27431,
+                        "signalName":  "Aux_32",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27432,
+                        "signalName":  "Aux_33",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27433,
+                        "signalName":  "Aux_34",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27434,
+                        "signalName":  "Aux_35",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27435,
+                        "signalName":  "Aux_36",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27436,
+                        "signalName":  "Aux_37",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27437,
+                        "signalName":  "Aux_38",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27438,
+                        "signalName":  "Aux_39",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27439,
+                        "signalName":  "Aux_40",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27440,
+                        "signalName":  "Aux_41",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27441,
+                        "signalName":  "Aux_42",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27442,
+                        "signalName":  "Aux_43",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27443,
+                        "signalName":  "Aux_44",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27444,
+                        "signalName":  "Aux_45",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27445,
+                        "signalName":  "Aux_46",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27446,
+                        "signalName":  "Aux_47",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27447,
+                        "signalName":  "Aux_48",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27448,
+                        "signalName":  "Aux_49",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27449,
+                        "signalName":  "Aux_50",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27450,
+                        "signalName":  "Door_Station_Door_Release",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27451,
+                        "signalName":  "Door_Station_Preview",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27452,
+                        "signalName":  "Panic",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27453,
+                        "signalName":  "Alarm",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  27454,
+                        "signalName":  "Handset",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28500,
+                        "signalName":  "Close_Opened_App",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28511,
+                        "signalName":  "Start_SONOS",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28524,
+                        "signalName":  "Hide_Opened_App",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  28531,
+                        "signalName":  "App_Data_URI",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  28600,
+                        "signalName":  "Browser_Homepage",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28600,
+                        "signalName":  "Open_Browser",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  28601,
+                        "signalName":  "Browser_URL",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28601,
+                        "signalName":  "Close_Browser",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28602,
+                        "signalName":  "Mobile_Browser_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28603,
+                        "signalName":  "Mobile_Browser_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28604,
+                        "signalName":  "Browser_Go_Home",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28606,
+                        "signalName":  "Browser_kiosk_on",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  28607,
+                        "signalName":  "Browser_kiosk_off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  29000,
+                        "signalName":  "Voice_Capture_Result",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29000,
+                        "signalName":  "Start_Voice_Capture",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  29000,
+                        "signalName":  "Voice_Recording_dB",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29001,
+                        "signalName":  "Cancel_Voice_Capture",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  29002,
+                        "signalName":  "Set_Voice_Language",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29002,
+                        "signalName":  "Voice_Capture_in_Progress",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29003,
+                        "signalName":  "Voice_Capture_Recording",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29004,
+                        "signalName":  "Voice_Capture_Decoding",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29005,
+                        "signalName":  "Voice_Capture_Complete",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29006,
+                        "signalName":  "Voice_Capture_Error",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29009,
+                        "signalName":  "Voice_Recognition_Service_Online",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  29100,
+                        "signalName":  "Screensaver_Bottom_Display_Text",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29100,
+                        "signalName":  "Screensaver_on",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  29100,
+                        "signalName":  "Screensaver_Brightness",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  29101,
+                        "signalName":  "Temp_Scale",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29101,
+                        "signalName":  "Screensaver_off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  29101,
+                        "signalName":  "Temp_A",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  29102,
+                        "signalName":  "Screensaver_Top_Display_Text",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29102,
+                        "signalName":  "24_Hr_Clock_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  29102,
+                        "signalName":  "Temp_B",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29103,
+                        "signalName":  "24_Hr_Clock_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29104,
+                        "signalName":  "Temp_Tenths_On",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29105,
+                        "signalName":  "Temp_Tenths_Off",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29600,
+                        "signalName":  "Enable",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29601,
+                        "signalName":  "Disable",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29602,
+                        "signalName":  "Check_Now",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29603,
+                        "signalName":  "In_Progress",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29701,
+                        "signalName":  "Logout",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29702,
+                        "signalName":  "Authentication_On",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29703,
+                        "signalName":  "Authenticated",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29704,
+                        "signalName":  "Not_Authenticated",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29705,
+                        "signalName":  "Admin",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29706,
+                        "signalName":  "Not_Admin",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29726,
+                        "signalName":  "Touch_Activity",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  29727,
+                        "signalName":  "Reset_Activity_Timer",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  30022,
+                        "signalName":  "LedAccessoryConnected",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  30025,
+                        "signalName":  "RedLedControl",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  30026,
+                        "signalName":  "GreenLedControl",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "boolean",
+                        "joinId":  30027,
+                        "signalName":  "BlueLedControl",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  33200,
+                        "signalName":  "Manifest_URL",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33200,
+                        "signalName":  "Poll_Interval",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  33201,
+                        "signalName":  "Check_Time",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  33300,
+                        "signalName":  "Username",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33300,
+                        "signalName":  "Time",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  33301,
+                        "signalName":  "User_Login_Password",
+                        "direction":  "fromUI"
+                    },
+                    {
+                        "type":  "string",
+                        "joinId":  33302,
+                        "signalName":  "User_Groups",
+                        "direction":  "toUI"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33350,
+                        "signalName":  "RedLedBlinkTime",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33351,
+                        "signalName":  "GreenLedBlinkTime",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33352,
+                        "signalName":  "BlueLedBlinkTime",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33354,
+                        "signalName":  "RedLedBrightness",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33355,
+                        "signalName":  "GreenLedBrightness",
+                        "direction":  "both"
+                    },
+                    {
+                        "type":  "numeric",
+                        "joinId":  33356,
+                        "signalName":  "BlueLedBrightness",
+                        "direction":  "both"
+                    }
+                ]
+}

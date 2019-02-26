@@ -1,0 +1,91 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+android {
+
+    defaultConfig {
+        compileSdkVersion 27
+        applicationId "com.crestron.blackbird.mobile"
+        minSdkVersion 22
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+
+    flavorDimensions "DeviceType"
+    productFlavors {
+        mobile {
+            buildConfigField "String", "FORM_FACTOR", "\"mobile\""
+        }
+        touchpanel {
+            buildConfigField "String", "FORM_FACTOR", "\"touchscreen\""
+        }
+    }
+
+    sourceSets {
+        mobile {
+            java.srcDirs = ['src/main/mobile/java']
+            res.srcDirs =['src/main/mobile/res']
+        }
+        touchpanel {
+            java.srcDirs = ['src/main/touchpanel/java']
+            res.srcDirs =['src/main/mobile/res']
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs '../bcip/libs'
+    }
+}
+
+dependencies {
+    /*App dependencies*/
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.1'
+    implementation 'com.google.code.gson:gson:2.8.2'
+		implementation 'com.facebook.stetho:stetho:1.5.0'
+    implementation 'com.facebook.stetho:stetho-okhttp3:1.5.0'
+
+    /* DI */
+    implementation 'com.google.dagger:dagger:2.16'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.16'
+    compileOnly 'javax.annotation:jsr250-api:1.0'
+		
+    /*Modules*/
+    implementation project(path: ':control_system_settings')
+    implementation project(path: ':mobile-android-common')
+    implementation project(path: ':bcip')
+    implementation project(path: ':beaconparser')
+    implementation project(path: ':itemattribute')
+    implementation project(path: ':project_management')
+    implementation project(path: ':domain')
+    implementation project(path: ':signal_manager')
+
+    implementation project(path: ':video')
+    implementation project(path: ':connection-manager')
+    implementation project(path: ':clogger')
+
+    /*Test libs*/
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bcip" />
+            <option value="$PROJECT_DIR$/beaconparser" />
+            <option value="$PROJECT_DIR$/clogger" />
+            <option value="$PROJECT_DIR$/connection-manager" />
+            <option value="$PROJECT_DIR$/control_system_settings" />
+            <option value="$PROJECT_DIR$/crestronplatformsignaltransport" />
+            <option value="$PROJECT_DIR$/cryptography" />
+            <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/itemattribute" />
+            <option value="$PROJECT_DIR$/mobile-android-common" />
+            <option value="$PROJECT_DIR$/mobilebcipclient" />
+            <option value="$PROJECT_DIR$/project_management" />
+            <option value="$PROJECT_DIR$/signal_manager" />
+            <option value="$PROJECT_DIR$/video" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

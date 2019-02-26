@@ -1,0 +1,87 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 27
+
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            postprocessing {
+                removeUnusedCode false
+                removeUnusedResources false
+                obfuscate false
+                optimizeCode false
+                proguardFile 'proguard-rules.pro'
+            }
+        }
+    }
+
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+
+    flavorDimensions "DeviceType"
+    productFlavors {
+        mobile {
+            buildConfigField "String", "FORM_FACTOR", "\"mobile\""
+        }
+        touchpanel {
+            buildConfigField "String", "FORM_FACTOR", "\"touchscreen\""
+        }
+    }
+
+    sourceSets {
+        mobile {
+            java.srcDirs = ['src/main/mobile/java']
+            res.srcDirs =['src/main/mobile/res']
+        }
+        touchpanel {
+            java.srcDirs = ['src/main/touchpanel/java']
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    // TODO: Please read the note below
+   // implementation files('libs/bcip_client_blackbird-debug.aar')
+    // TODO: The directives below will not recognize an updated .aar file
+    // The "implementation files" line above does recognize an .aar file update,
+    // but the assembly step complains about multiple .so files
+    // So, we'll stick to the debug version of the .aar file above, and figure out the correct
+    // way of handling this in the future.
+    //implementation(name: 'bcip_client_blackbird-release', ext: 'aar')
+    //    debugImplementation(name: 'bcip_client_blackbird-debug', ext: 'aar') {
+    //        transitive = true
+    //    }
+    //    releaseImplementation(name: 'bcip_client_blackbird-release', ext: 'aar') {
+    //        transitive = true
+    //    }
+
+    //mobilebcipclient project(path: ':mobilebcipclient', configuration: 'mobilebcipclient')
+    //crestronplatformsignaltransport project(path: ':crestronplatformsignaltransport', configuration: 'crestronplatformsignaltransport')
+
+    //touchpanelImplementation project(':crestronplatformsignaltransport')
+    //mobileImplementation project(':mobilebcipclient')
+    touchpanelCompile project(':crestronplatformsignaltransport')
+    mobileCompile project(':mobilebcipclient')
+    implementation project(':mobile-android-common')
+    implementation project(':control_system_settings')
+    implementation project(':domain')
+    /* Test libs */
+    testImplementation 'junit:junit:4.12'
+    implementation project(':signal_manager')
+}

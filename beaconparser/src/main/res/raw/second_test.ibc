@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "resName" : "TestOne",
+      "csFriendlyName" : "Jacobs MC3",
+      "rooms" : [
+        {
+          "joinID" : 13,
+          "roomName" : "Cubicle",
+          "beacons" : [
+            {
+              "beaconName" : "TC3EC7F3",
+              "imajor" : 67,
+              "iminor" : 1
+            }
+          ],
+          "index" : 6
+        },
+        {
+          "joinID" : 31,
+          "roomName" : "Mac",
+          "beacons" : [
+            {
+              "beaconName" : "TC9EC99F",
+              "imajor" : 67,
+              "iminor" : 2
+            }
+          ],
+          "index" : 9
+        }
+      ],
+      "uuid" : "D1D94D19-439E-43A2-84AE-0B8E7BC3EF87"
+    }
+  ],
+  "CrestronBeaconConfig" : "1.0.0"
+}
