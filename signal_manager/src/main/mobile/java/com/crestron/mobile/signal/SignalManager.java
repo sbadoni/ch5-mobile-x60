@@ -228,6 +228,7 @@ public class SignalManager {
         }
     }
 
+
     public Object getReservedSignalUseCase(String reservedEvent){
 
         Object  reservedSignalObject = null;
@@ -254,6 +255,57 @@ public class SignalManager {
         }
 
         return reservedSignalObject;
+    }
+
+
+
+    /**
+     * Get Reserved Signal Use Case from Signal Name
+     *
+     * @param signalName
+     * @param fromUI
+     * @return
+     */
+
+    //SAMEER NEED TO CHECK PACKAGENAME
+    public Object getReservedSignalUseCase(String signalName, boolean fromUI) {
+        Object reservedSignalObject = null;
+        String qualifiedSignalName = null;
+        signalName = handleSpecialCharSignals(signalName);
+        try {
+            if (fromUI) {
+                qualifiedSignalName = "com.crestron.mobile.reservedjoin.request.Csig_" + signalName + "_UseCase";
+            } else {
+                qualifiedSignalName = "com.crestron.mobile.reservedjoin.response.Csig_" + signalName + "_UseCaseResp";
+            }
+            Class<?> aClass = Class.forName(qualifiedSignalName);
+            reservedSignalObject = aClass.newInstance();
+        } catch (InstantiationException e) {
+            Log.e("Error e: " , e.toString());;
+        } catch (ClassNotFoundException e) {
+            Log.e( "Error e: " , e.toString());;
+        } catch (IllegalAccessException e) {
+            Log.e( "Error e: " , e.toString());;
+        } catch (Exception e) {
+            Log.e( "Error e: " , e.toString());;
+        }
+        return reservedSignalObject;
+    }
+
+
+    /**
+     * Handling  special char signal Name
+     *
+     * @param signalName
+     * @return
+     */
+    public String handleSpecialCharSignals(String signalName) {
+        if (signalName.equals("Dial_*")) {
+            signalName = "Dial_Star";
+        } else if (signalName.equals("Dial_/#")) {
+            signalName = "Dial_SlashHash";
+        }
+        return signalName;
     }
 
     private void clean() {

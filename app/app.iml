@@ -8,11 +8,11 @@
     </facet>
     <facet type="android" name="Android">
       <configuration>
-        <option name="SELECTED_BUILD_VARIANT" value="mobileDebug" />
-        <option name="ASSEMBLE_TASK_NAME" value="assembleMobileDebug" />
-        <option name="COMPILE_JAVA_TASK_NAME" value="compileMobileDebugSources" />
+        <option name="SELECTED_BUILD_VARIANT" value="touchpanelDebug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleTouchpanelDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileTouchpanelDebugSources" />
         <afterSyncTasks>
-          <task>generateMobileDebugSources</task>
+          <task>generateTouchpanelDebugSources</task>
         </afterSyncTasks>
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
@@ -22,12 +22,16 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
         <compilerSettings />
         <compilerArguments>
-          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/mobileDebug" />
-          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.50/ba99c630feafe4570da49277ca8bf3c7f71cb6aa/kotlin-stdlib-jre7-1.2.50.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4177110e15ce93d9e8f18b3844fbe4f6/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/20d8da4f038632fc145c69990dd304b7/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/2b1aecdbd809443cfa46e3c31774f073/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/41168e95936f7cb21625f8cc13e11567/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.16/a54ab49a739fd87e31be49c6179a0e9a135a7f39/dagger-2.16.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/control_system_settings/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/video/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/mobile-android-common/build/intermediates/intermediate-jars/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/connection-manager/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/bcip/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/beaconparser/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/itemattribute/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/project_management/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/domain/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/signal_manager/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/Documents/BlackBird/ProjectMerge/clogger/build/intermediates/intermediate-jars/mobile/debug/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/io.reactivex/rxkotlin/1.0.0/234af3183b60802294f426418a0e44a0b70a824f/rxkotlin-1.0.0.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.50/66d47b004c5b8a1d2d1df9e463187390ed741316/kotlin-stdlib-1.2.50.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/02b1ff792515ff0eac536b5945dc518b/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fc26c05afb0dc82d6ad9e53d6a74372a/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/72464f066ead5cf4340592d9f4838f0a/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6aaa0353917ba60dcd2828b93e01bfb0/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/583e9f6f3d83f7d9f08565885341e70d/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7ed2cd0dce2fa1c9f3be22efc0fb2615/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/699701bfb2cf072b307d5c6d2d533e33/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.1.0/6e749dde07b1f6fe13444c94befde3c28e700d5b/common-1.1.0.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/36005d18a9d40e42dacc20ee4f2b059c/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/147bfa9d2ffbe7afbdd7ad5565ab9e92/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7481760908b40fc0323b4558dc51f8a0/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7964d9419df51060a68dbe2e73ada66d/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a543223bf70170b6cb222cfe564f696f/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.1/cece6996f6bc526ed0d8453a43765bcf8f2b6018/constraint-layout-solver-1.1.1.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/ac6f6d1d455fc3e2d9f46ac9ebe1ea71/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.12/975d34a9f14da5b0aecffa603501e9716aae5aa4/rxjava-2.1.12.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/bcip_client_blackbird-debug.aar/c35446f8dd5472bdecd3fd1d97c33e1c/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.50/6b19a2fcc29d34878b3aab33fd5fcf70458a73df/kotlin-stdlib-common-1.2.50.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/sameerbadoni/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e5c493b0da74c62cf5ca29c657cf1b2/jars/classes.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.7/138872ff3173fb7bee8b1d6303d6edb57d76599/rxjava-1.2.7.jar:/Users/sameerbadoni/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar:/Users/sameerbadoni/Library/Android/sdk/platforms/android-27/android.jar" />
-          <option name="moduleName" value="app_mobileDebug" />
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/touchpanelDebug" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_touchpanelDebug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
           <option name="languageVersion" value="1.2" />
           <option name="apiVersion" value="1.2" />
           <option name="pluginOptions">
@@ -47,67 +51,67 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/build/intermediates/classes/mobile/debug" />
-    <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/mobile/debug" />
+    <output url="file://$MODULE_DIR$/build/intermediates/classes/touchpanel/debug" />
+    <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/touchpanel/debug" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/mobile/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/mobile/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/mobile/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/mobile/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/mobile/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/mobile/debug" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/mobile/debug" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobileDebug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/mobile/debug" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/mobile/debug" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobileDebug/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/test/mobile/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobileDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/touchpanel/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/touchpanel/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/touchpanel/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/touchpanel/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/touchpanel/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/touchpanel/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/touchpanel/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanelDebug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/r/androidTest/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/aidl/androidTest/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/rs/androidTest/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/touchpanel/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/touchpanel/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanelDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/test/touchpanel/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanelDebug/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/mobile/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobile/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobile/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobile/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/mobile/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobile/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/mobile/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testMobile/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestMobile/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanel/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanel/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanel/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/touchpanel/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanel/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/touchpanel/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestTouchpanel/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testTouchpanel/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
@@ -162,7 +166,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-verifier" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-apk" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-main-apk-res" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-resources" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaPrecompile" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifest-checker" />
@@ -184,6 +187,7 @@
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: artifacts:crestronplatformsignaltransport" level="project" />
     <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.12@jar" level="project" />
     <orderEntry type="library" name="Gradle: commons-cli:commons-cli:1.2@jar" level="project" />
     <orderEntry type="library" name="Gradle: io.reactivex:rxkotlin:1.0.0@jar" level="project" />
@@ -197,7 +201,6 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-1.1.1" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.core:runtime-1.1.1" level="project" />
-    <orderEntry type="library" name="Gradle: artifacts:mobilebcipclient" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:monitor-1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-27.1.1" level="project" />
     <orderEntry type="library" name="Gradle: javax.annotation:jsr250-api:1.0@jar" level="project" />
@@ -236,13 +239,13 @@
     <orderEntry type="module" module-name="clogger" />
     <orderEntry type="module" module-name="mobile-android-common" />
     <orderEntry type="module" module-name="control_system_settings" />
-    <orderEntry type="module" module-name="signal_manager" />
     <orderEntry type="module" module-name="itemattribute" />
+    <orderEntry type="module" module-name="signal_manager" />
     <orderEntry type="module" module-name="video" />
     <orderEntry type="module" module-name="connection-manager" />
     <orderEntry type="module" module-name="beaconparser" />
     <orderEntry type="module" module-name="domain" />
-    <orderEntry type="module" module-name="bcip" />
     <orderEntry type="module" module-name="project_management" />
+    <orderEntry type="module" module-name="bcip" />
   </component>
 </module>

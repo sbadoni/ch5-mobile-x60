@@ -1,6 +1,7 @@
 package com.crestron.mobile.bcip;
 
 import com.crestron.mobile.contract.UseCase;
+
 ;
 
 /**

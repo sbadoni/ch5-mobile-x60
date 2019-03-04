@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         compileSdkVersion 27
-        applicationId "com.crestron.blackbird.mobile"
+        applicationId "com.crestron.ch5"
         minSdkVersion 22
         targetSdkVersion 27
         versionCode 1
@@ -30,9 +30,15 @@ android {
     productFlavors {
         mobile {
             buildConfigField "String", "FORM_FACTOR", "\"mobile\""
+            //manifest.srcFile 'mobile/AndroidManifest.xml'
+
+            applicationId "com.crestron.ch5.mobile"
         }
         touchpanel {
             buildConfigField "String", "FORM_FACTOR", "\"touchscreen\""
+            //manifest.srcFile 'touchpanel/AndroidManifest.xml'
+
+            applicationId "com.crestron.ch5.touchpanel"
         }
     }
 

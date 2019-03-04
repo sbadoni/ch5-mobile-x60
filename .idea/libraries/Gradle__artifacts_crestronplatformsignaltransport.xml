@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:crestronplatformsignaltransport">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crestronplatformsignaltransport-release.aar/91caf275ee5e45915bef5fcbeb128c78/jars/libs/CresStoreJsonJNI.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crestronplatformsignaltransport-release.aar/91caf275ee5e45915bef5fcbeb128c78/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crestronplatformsignaltransport-release.aar/91caf275ee5e45915bef5fcbeb128c78/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crestronplatformsignaltransport-release.aar/91caf275ee5e45915bef5fcbeb128c78/jars/libs/SecureStorageJNI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

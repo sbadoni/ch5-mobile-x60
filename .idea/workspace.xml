@@ -17,7 +17,122 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67aa2df8-9f58-485e-a27c-cd451ef4c0a5" name="Default" comment="" />
+    <list default="true" id="67aa2df8-9f58-485e-a27c-cd451ef4c0a5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__artifacts_mobilebcipclient.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/Features.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/Features.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainApplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/AppJSInterface.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/SystemWebChromeClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/SystemWebViewClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/UIEventHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/res/raw/reserved.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/res/raw/reservedjoins.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainApplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/AppJSInterface.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebChromeClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebViewClient.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/UIEventHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bcip/bcip.iml" afterPath="$PROJECT_DIR$/bcip/bcip.iml" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/beaconparser.iml" afterPath="$PROJECT_DIR$/beaconparser/beaconparser.iml" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/buildConfig/mobile/debug/com/crestron/beaconparser/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/core/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/lifecycle/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/lifecycle/extensions/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/lifecycle/livedata/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/lifecycle/livedata/core/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/lifecycle/viewmodel/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/persistence/db/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/persistence/db/framework/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/arch/persistence/room/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/compat/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/coreui/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/coreutils/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/fragment/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/graphics/drawable/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/graphics/drawable/animated/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/android/support/v7/appcompat/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/com/crestron/beaconparser/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/com/crestron/itemattribute/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/generated/source/r/mobile/debug/io/reactivex/android/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/incremental/compileMobileDebugAidl/dependency.store" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/incremental/packageMobileDebugResources/compile-file-map.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/incremental/packageMobileDebugResources/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/manifests/aapt/mobile/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/manifests/aapt/mobile/debug/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/manifests/full/mobile/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/manifests/full/mobile/debug/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/packaged_res/mobile/debug/raw/second_test.ibc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/res/symbol-table-with-package/mobile/debug/package-aware-r.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/intermediates/symbols/mobile/debug/R.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/beaconparser/build/outputs/logs/manifest-merger-mobile-debug-report.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/clogger/clogger.iml" afterPath="$PROJECT_DIR$/clogger/clogger.iml" />
+      <change beforePath="$PROJECT_DIR$/connection-manager/connection-manager.iml" afterPath="$PROJECT_DIR$/connection-manager/connection-manager.iml" />
+      <change beforePath="$PROJECT_DIR$/control_system_settings/control_system_settings.iml" afterPath="$PROJECT_DIR$/control_system_settings/control_system_settings.iml" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/buildConfig/mobile/debug/com/crestron/cryptography/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/arch/core/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/arch/lifecycle/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/arch/lifecycle/livedata/core/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/arch/lifecycle/viewmodel/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/compat/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/coreui/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/coreutils/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/fragment/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/graphics/drawable/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/graphics/drawable/animated/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/android/support/v7/appcompat/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/generated/source/r/mobile/debug/com/crestron/cryptography/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/incremental/compileMobileDebugAidl/dependency.store" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/incremental/packageMobileDebugResources/compile-file-map.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/incremental/packageMobileDebugResources/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/manifests/aapt/mobile/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/manifests/aapt/mobile/debug/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/manifests/full/mobile/debug/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/manifests/full/mobile/debug/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/res/symbol-table-with-package/mobile/debug/package-aware-r.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/intermediates/symbols/mobile/debug/R.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/build/outputs/logs/manifest-merger-mobile-debug-report.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cryptography/cryptography.iml" afterPath="$PROJECT_DIR$/cryptography/cryptography.iml" />
+      <change beforePath="$PROJECT_DIR$/domain/domain.iml" afterPath="$PROJECT_DIR$/domain/domain.iml" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java" afterPath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/Csig_Boolean_UseCase.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/Csig_Integer_UseCase.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/Csig_String_UseCase.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Call_Terminated_UseCase.java" afterPath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Call_Terminated_UseCase.java" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_My_URI_UseCase.java" afterPath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_My_URI_UseCase.java" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/contract/UseCase.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java" afterPath="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPSendUpdateRequestUseCase.java" afterPath="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPSendUpdateRequestUseCase.java" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/contract/UseCase.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/itemattribute/itemattribute.iml" afterPath="$PROJECT_DIR$/itemattribute/itemattribute.iml" />
+      <change beforePath="$PROJECT_DIR$/mobile-android-common/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/mobile-android-common/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/mobile-android-common/mobile-android-common.iml" afterPath="$PROJECT_DIR$/mobile-android-common/mobile-android-common.iml" />
+      <change beforePath="$PROJECT_DIR$/project_management/project_management.iml" afterPath="$PROJECT_DIR$/project_management/project_management.iml" />
+      <change beforePath="$PROJECT_DIR$/signal_manager/signal_manager.iml" afterPath="$PROJECT_DIR$/signal_manager/signal_manager.iml" />
+      <change beforePath="$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/SignalManager.java" afterPath="$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/SignalManager.java" />
+      <change beforePath="$PROJECT_DIR$/video/video.iml" afterPath="$PROJECT_DIR$/video/video.iml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,109 +154,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CIPCSConnectionHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-139">
+              <caret line="108" column="44" lean-forward="false" selection-start-line="108" selection-start-column="44" selection-end-line="108" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CIPCSConnectionHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4701">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionMngr.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/connection-manager/src/main/touchpanel/java/mobile/crestron/com/connection_manager/ConnectionMngr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CIPHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CIPHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="37" column="47" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbInteractorProjMgt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/interactor/DbInteractorProjMgt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbInteractor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/interactor/DbInteractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectEntry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/model/ProjectEntry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrustAllSSLSocketFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/net/okhttp/TrustAllSSLSocketFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SystemWebViewClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebViewClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="93" column="57" lean-forward="false" selection-start-line="93" selection-start-column="53" selection-end-line="93" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/Logger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logging.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/Logging.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RxLogger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/RxLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="198" column="28" lean-forward="false" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -149,6 +219,22 @@
       <find>reserved.json</find>
       <find>reser</find>
       <find>init</find>
+      <find>mConnectionMngr</find>
+      <find>pathToDisplayProject</find>
+      <find>main</find>
+      <find>showProgressMsg</find>
+      <find>home</find>
+      <find>readJsonFileFromRawFolder</find>
+      <find>reservedJoinInpuStream</find>
+      <find>mContext</find>
+      <find>mReservedJoinInputStream</find>
+      <find>initReservedUseCasesLiseners</find>
+      <find>initReservedUseCaseListeners</find>
+      <find>handleSpecialCharSignals</find>
+      <find>mSignalManager</find>
+      <find>onObjectUseCase</find>
+      <find>mAppJSInterface</find>
+      <find>AppJSInterface</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -22088,41 +22174,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/signal_manager/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainApplication.java" />
-        <option value="$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalManager.java" />
-        <option value="$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalLoader.java" />
-        <option value="$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebViewClient.java" />
-        <option value="$PROJECT_DIR$/video/build.gradle" />
-        <option value="$PROJECT_DIR$/connection-manager/build.gradle" />
-        <option value="$PROJECT_DIR$/connection-manager/src/main/touchpanel/java/mobile/crestron/com/connection_manager/ConnectionMngr.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/UIEventHandler.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebChromeClient.java" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/mobilebcipclient/build.gradle" />
-        <option value="$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPHandler.java" />
-        <option value="$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPHandler.java" />
-        <option value="$PROJECT_DIR$/bcip/build.gradle" />
-        <option value="$PROJECT_DIR$/beaconparser/build.gradle" />
-        <option value="$PROJECT_DIR$/clogger/build.gradle" />
-        <option value="$PROJECT_DIR$/control_system_settings/build.gradle" />
-        <option value="$PROJECT_DIR$/cryptography/build.gradle" />
-        <option value="$PROJECT_DIR$/domain/build.gradle" />
-        <option value="$PROJECT_DIR$/itemattribute/build.gradle" />
-        <option value="$PROJECT_DIR$/mobile-android-common/build.gradle" />
-        <option value="$PROJECT_DIR$/project_management/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/blackbird/MainApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/webui/SystemWebChromeClient.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/Features.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/MainApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/AppJSInterface.java" />
-        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/AppJSInterface.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/UIEventHandler.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Busy_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_8_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/projectmanagement/RetryCacheProblemUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Incoming_URI_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Incoming_Display_Name_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_6_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_0_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Init_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_Backspace_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_My_URI_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_Backslash_Hash_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Page_All_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Muted_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Call_Terminated_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Control_Systems_Offline_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Hold_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Key_Click_On_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_Star_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_All_Control_Systems_Online_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_App_Return_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_1_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_5_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_DialBuffer_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Dial_Clear_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/reservedjoin/request/Csig_Incoming_UseCase.java" />
         <option value="$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/SetupLogging.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPGetUpdatesUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPOpUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPSendUpdateRequestUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/layout/ProjectReadyUseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Integer_UseCaseResp.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_String_UseCaseResp.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_String_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Boolean_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Integer_UseCase.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Boolean_UseCaseResp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/SystemWebViewClient.java" />
+        <option value="$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/SignalManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/Ch5Launcher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/MainApplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainApplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/AppJSInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/UIEventHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/UIEventHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/webui/UIEvent.java" />
+        <option value="$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/AppJSInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/HomeActivity.java" />
       </list>
     </option>
   </component>
@@ -22154,134 +22256,12 @@
               <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="crestron" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="crestron" type="462c0819:PsiDirectoryNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="touchpanel" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="crestron" type="462c0819:PsiDirectoryNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-              <item name="webui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clogger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clogger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clogger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clogger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectMerge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectMerge" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="clogger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -22309,8 +22289,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -22318,20 +22296,26 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="gradle.compiler" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1551083776003" />
-    <property name="device.picker.selection" value="8777d62c" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1551677188873" />
+    <property name="device.picker.selection" value="HT6AH0200083" />
     <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/touchpanel/debug/app-touchpanel-debug.apk" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.crestron.mobile.contract" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crestron.ch5.webui" />
+      <recent name="com.crestron.ch5" />
       <recent name="com.crestron.blackbird" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/mobile" />
+      <recent name="$PROJECT_DIR$/app/src/main/touchpanel" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird" />
       <recent name="$PROJECT_DIR$/app/src/main/java" />
       <recent name="$PROJECT_DIR$/bcip/libs" />
-      <recent name="$PROJECT_DIR$/app/src/main/res" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/res/raw" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -22383,7 +22367,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -22503,38 +22487,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5133531" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30829757" sideWeight="0.08160237" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446352" sideWeight="0.19512194" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5207715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0652819" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30829757" sideWeight="0.9183976" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.026706232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446352" sideWeight="0.80487806" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24777448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09347181" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.010385756" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -22545,241 +22530,413 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainApplication.java</url>
-          <line>13</line>
+          <line>14</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainApplication.java</url>
-          <line>30</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/UIEventHandler.java</url>
+          <line>395</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/Ch5Launcher.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/Ch5Launcher.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainApplication.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainApplication.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crestronplatformsignaltransport/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="1" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/webui/UIEventHandler.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/webui/AppJSInterface.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/webui/SystemWebViewClient.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/Features.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/webui/SystemWebChromeClient.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/MainActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/blackbird/MainApplication.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/Features.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/webui/UIEventHandler.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/webui/AppJSInterface.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/webui/SystemWebViewClient.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/webui/SystemWebChromeClient.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/Features.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connection-manager/src/main/touchpanel/java/mobile/crestron/com/connection_manager/ConnectionMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/blackbird/MainApplication.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/src/main/touchpanel/java/com/crestron/video/panel/VideoManagerRx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crestronplatformsignaltransport-release.aar/91caf275ee5e45915bef5fcbeb128c78/jars/classes.jar!/com/crestron/cip/IplinkClientInterface.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <marker date="1549532632301" expanded="false" signature="3:117" ph="/.../" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/Features.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/AppJSInterface.java">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/CIPIntegerUseCaseResp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/mobile/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPBooleanUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bcip_client_blackbird-debug.aar/c35446f8dd5472bdecd3fd1d97c33e1c/jars/classes.jar!/com/crestron/cip/ConnectionMgrBlackbird.class">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPBooleanUseCaseResp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="107">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPConnectToCSUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPConnectToIPLinkUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPGetUpdatesUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPIntegerUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobilebcipclient/build.gradle">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPIntegerUseCaseResp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="65" />
+        <state relative-caret-position="107">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPObjectUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="62" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/AppJSInterface.java">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPObjectUseCaseResp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bcip/build.gradle">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPOpUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="79" column="44" lean-forward="false" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="44" />
+        <state relative-caret-position="107">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/mobile/webui/UIEventHandler.java">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPSendUpdateRequestUseCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="103" column="47" lean-forward="true" selection-start-line="103" selection-start-column="47" selection-end-line="103" selection-end-column="47" />
+        <state relative-caret-position="121">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPStringUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPStringUseCaseResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/layout/ProjectReadyUseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Integer_UseCaseResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_String_UseCaseResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_String_UseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Boolean_UseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Integer_UseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domain/src/main/touchpanel/java/com/crestron/mobile/reservedjoin/Csig_Boolean_UseCaseResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="554" column="0" lean-forward="false" selection-start-line="554" selection-start-column="0" selection-end-line="567" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/SignalManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="269" column="38" lean-forward="false" selection-start-line="269" selection-start-column="38" selection-end-line="269" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/SystemWebChromeClient.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/SystemWebChromeClient.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.5.0/527b79d1251cdd97e540e7745120abef00e4a39e/stetho-1.5.0-sources.jar!/com/facebook/stetho/Stetho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="103" column="21" lean-forward="false" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="33" />
+        <state relative-caret-position="210">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/webui/SystemWebChromeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/Ch5Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/AppJSInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/SystemWebViewClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/webui/UIEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/mobile/java/com/crestron/ch5/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/SystemWebViewClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/UIEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-826">
+          <caret line="42" column="69" lean-forward="false" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/webui/UIEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="80" column="8" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/ch5/webui/AppJSInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#387#388#0" expanded="false" />
+            <element signature="e#417#418#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/webui/AppJs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#380#381#0" expanded="false" />
+            <element signature="e#414#415#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/crestron/ch5/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1131">
-          <caret line="193" column="34" lean-forward="true" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/ReservedSignals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/ReservedSignals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/mobile/java/com/crestron/mobile/signal/Signal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-906">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal_manager/src/main/touchpanel/java/com/crestron/mobile/signal/SignalManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1225">
-          <caret line="114" column="53" lean-forward="false" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="53" />
+        <state relative-caret-position="-139">
+          <caret line="108" column="44" lean-forward="false" selection-start-line="108" selection-start-column="44" selection-end-line="108" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -22787,98 +22944,32 @@
     <entry file="file://$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="57" />
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bcip/src/main/mobile/java/com/crestron/mobile/bcip/CIPHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="37" column="47" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.12/c3ecbf29cbfecec5f00fcb1442acd0285962eefe/rxjava-2.1.12-sources.jar!/io/reactivex/functions/Action.java">
+    <entry file="file://$PROJECT_DIR$/bcip/src/main/touchpanel/java/com/crestron/mobile/bcip/CIPCSConnectionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="-4701">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/interactor/DbInteractorProjMgt.java">
+    <entry file="file://$PROJECT_DIR$/connection-manager/src/main/touchpanel/java/mobile/crestron/com/connection_manager/ConnectionMngr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="-391">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/interactor/DbInteractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/model/ProjectEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_management/src/main/mobile/java/com/crestron/blackbird/mobile/projectmanagement/net/okhttp/TrustAllSSLSocketFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/webui/SystemWebViewClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/touchpanel/java/com/crestron/blackbird/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="93" column="57" lean-forward="false" selection-start-line="93" selection-start-column="53" selection-end-line="93" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/Logging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clogger/src/main/java/com/crestron/logging/RxLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="198" column="28" lean-forward="false" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

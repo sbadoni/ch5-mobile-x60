@@ -1,7 +1,5 @@
 package com.crestron.mobile.bcip;
 
-import com.crestron.mobile.contract.UseCase;
-
 /**
  * <h1>CIPIntegerUseCase class </h1>
  * <p>
