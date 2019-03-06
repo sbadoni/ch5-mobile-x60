@@ -15,12 +15,7 @@ import com.crestron.mobile.bcip.CIPObjectUseCaseResp;
 import com.crestron.mobile.bcip.CIPStringUseCase;
 import com.crestron.mobile.bcip.CIPStringUseCaseResp;
 import com.crestron.mobile.android.common.RxBus;
-import com.crestron.mobile.reservedjoin.Csig_Boolean_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_Boolean_UseCaseResp;
-import com.crestron.mobile.reservedjoin.Csig_Integer_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_Integer_UseCaseResp;
-import com.crestron.mobile.reservedjoin.Csig_String_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_String_UseCaseResp;
+
 import com.crestron.mobile.signal.SignalManager;
 import com.google.gson.Gson;
 

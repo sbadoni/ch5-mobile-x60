@@ -8,8 +8,9 @@ import com.crestron.mobile.android.common.RxBus;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
 
-import com.crestron.mobile.reservedjoin.Csig_String_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_String_UseCaseResp;
+
+import com.crestron.mobile.bcip.reservedjoin.Csig_String_UseCase;
+import com.crestron.mobile.bcip.reservedjoin.Csig_String_UseCaseResp;
 import com.crestron.utils.Observable;
 
 /**

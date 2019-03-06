@@ -7,15 +7,14 @@ import com.crestron.cip.ConnectionMgrIplink;
 import com.crestron.cip.IplinkClientInterface;
 import com.crestron.cresstore.CresStoreLibraryNotFoundException;
 import com.crestron.mobile.android.common.RxBus;
+import com.crestron.mobile.bcip.reservedjoin.Csig_Boolean_UseCase;
+import com.crestron.mobile.bcip.reservedjoin.Csig_Boolean_UseCaseResp;
+import com.crestron.mobile.bcip.reservedjoin.Csig_Integer_UseCase;
+import com.crestron.mobile.bcip.reservedjoin.Csig_Integer_UseCaseResp;
+import com.crestron.mobile.bcip.reservedjoin.Csig_String_UseCase;
+import com.crestron.mobile.bcip.reservedjoin.Csig_String_UseCaseResp;
 import com.crestron.mobile.layout.ProjectReadyUseCase;
-import com.crestron.mobile.reservedjoin.Csig_Boolean_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_Boolean_UseCaseResp;
-import com.crestron.mobile.reservedjoin.Csig_Integer_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_Integer_UseCaseResp;
-import com.crestron.mobile.reservedjoin.Csig_String_UseCase;
-import com.crestron.mobile.reservedjoin.Csig_String_UseCaseResp;
 
-import com.crestron.mobile.reservedjoin.*;
 
 import com.crestron.mobile.signal.SignalInfo;
 import com.crestron.mobile.signal.SignalManager;
@@ -288,7 +287,8 @@ public class CIPCSConnectionHandler {
                     sendBooleanUseCase(signalInfo.getSignalName(), joinId, joinValue);
                 }
             } else { // send reserved join use case
-                signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+                //signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+                signalInfo = mSignalManager.getReservedBoolJoinInfo(joinId);
                 if (signalInfo != null) {
                     Log.v( "reservedSignalInfo: " , signalInfo.getSignalName());
                     Object obj = mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
@@ -330,7 +330,8 @@ public class CIPCSConnectionHandler {
                     sendIntegerUseCase(signalInfo.getSignalName(), joinId, joinValue);
                 }
             } else { // send reserved join use case
-                signalInfo = mSignalManager.getIntReservedSignalInfoToUI(joinId);
+                //signalInfo = mSignalManager.getIntReservedSignalInfoToUI(joinId);
+                signalInfo = mSignalManager.getReservedIntJoinInfo(joinId);
                 if (signalInfo != null) {
                     Log.v( "reservedSignalInfo: " , signalInfo.getSignalName());
                     Object obj = mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
@@ -372,7 +373,8 @@ public class CIPCSConnectionHandler {
                 }
 
             } else { // send reserved join use case
-                signalInfo = mSignalManager.getStrReservedSignalInfoToUI(joinId);
+                //signalInfo = mSignalManager.getStrReservedSignalInfoToUI(joinId);
+                signalInfo = mSignalManager.getReservedStringJoinInfo(joinId);
                 if (signalInfo != null) {
                     Log.v( "reservedSignalInfo: " , signalInfo.getSignalName());
                     Object obj = mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
@@ -415,7 +417,8 @@ public class CIPCSConnectionHandler {
      * @param joinValue
      */
     void sendIntReservedSignalChange(int joinId, int joinValue) {
-        SignalInfo signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+        //SignalInfo signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+        SignalInfo signalInfo = mSignalManager.getReservedIntJoinInfo(joinId);
         if (signalInfo != null) {
             Csig_Integer_UseCaseResp csig_integer_useCaseResp = (Csig_Integer_UseCaseResp) mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
             csig_integer_useCaseResp.setValue(joinValue);
@@ -430,7 +433,8 @@ public class CIPCSConnectionHandler {
      * @param joinValue
      */
     void sendBoolReservedSignalChange(int joinId, boolean joinValue) {
-        SignalInfo signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+        //SignalInfo signalInfo = mSignalManager.getBoolReservedSignalInfoToUI(joinId);
+        SignalInfo signalInfo = mSignalManager.getReservedBoolJoinInfo(joinId);
         if (signalInfo != null) {
             Csig_Boolean_UseCaseResp csig_boolean_useCaseResp = (Csig_Boolean_UseCaseResp) mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
             csig_boolean_useCaseResp.setValue(joinValue);
@@ -445,7 +449,8 @@ public class CIPCSConnectionHandler {
      * @param joinValue
      */
     void sendStrReservedSignalChange(int joinId, String joinValue) {
-        SignalInfo signalInfo = mSignalManager.getStrReservedSignalInfoToUI(joinId);
+       // SignalInfo signalInfo = mSignalManager.getStrReservedSignalInfoToUI(joinId);
+        SignalInfo signalInfo = mSignalManager.getReservedStringJoinInfo(joinId);
         if (signalInfo != null) {
             Csig_String_UseCaseResp csig_string_useCaseResp = (Csig_String_UseCaseResp) mSignalManager.getReservedSignalUseCase(signalInfo.getSignalName(), false);
             csig_string_useCaseResp.setValue(joinValue);

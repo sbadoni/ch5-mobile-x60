@@ -37,6 +37,7 @@ abstract public class UIEvent {
 
     protected static final String START_PAGE = "index.html";
     protected static final String USER_JSON = "user.json";
+    protected static final String SIGNAL_JOIN_MAP_JSON = "signalJoinMap.json";
 
 
     public UIEvent( Context mContext){
